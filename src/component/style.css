@@ -1,0 +1,23 @@
+.img{
+    
+    width:280px;
+     height:350px;
+  
+  
+}
+/* img:hover{
+    transform:scale(1.05);
+    transition: 0.2s linear;
+    cursor: pointer;
+    box-shadow: 10px 10px 10px gray;
+} */
+.card{
+    padding: 10px;
+}
+.card:hover{
+    transform:scale(1.05);
+    transition: 0.2s linear;
+    cursor: pointer;
+    box-shadow: 10px 10px 10px gray;
+  
+}
